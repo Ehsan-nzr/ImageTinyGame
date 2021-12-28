@@ -10,4 +10,4 @@ A tiny game with asp.net core 3.1 and react.
 
 > Run Project :
 - Run WebApi project.
-- use `npm start` in the clientApp/ui/src
+- use `npm start` in the UI/clientApp/src
