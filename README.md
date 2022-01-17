@@ -1,5 +1,5 @@
 # ImageTinyGame
-A tiny game with asp.net core 3.1 and react.
+Image tiny game is a small task which implemented by Asp.net core 3.1 and react.
 
 ## How to run 
 
